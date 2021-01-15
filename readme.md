@@ -1,3 +1,5 @@
+#İş Başvurusu Task
+
 Veritabanı - Mysql
 
 Mysql için sql dosyası kodların içinde var fakat isterseniz direk
